@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color:skyblue;
+    color: white;
+    font-weight: bold;
+}
+
+#one {
+    height: 60px;
+    background-color:#007185;
+}
+
+#logo {
+    background-color: chocolate;
+    font-size: 25px;
+    color: white;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: underline;
+    color: black;
+    background-color: white;
+}
+
+input {background-color: black;}
+
+.one {
+    height: 264px;
+    width: 230px;
+    background-color: white;
+    border: 5px solid black;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.two {
+    height: 310px;
+    width: 185px;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.three {
+    height: 252px;
+    width: 250px;
+    background-color: white;
+    border: 5px solid black;
+}
+
+#box {
+    margin: 10px;
+    display: inline-block;
+}
+
+.si {
+    padding-top: 12px;
+    padding-left: 5px;
+    border-top: 4px solid black;
+}
+
+.gi {
+    padding-left: 4px;
+    padding-top: 4px;
+    border-top: 4px solid black;
+}
+
+.hi {
+    padding-top: 20px;
+    padding-left: 3px;
+    border-top: 4px solid black;
+}
+
+.musi {
+    background-color: black;
+    height: 150px;
+    width: 100%;
+    margin-top: 75px;
+}
+
+.mausi {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    background-color: black;
+}
+
+p {background-color: black;}
+
+
+
+
+
+
+
+
+
+
+
+
